@@ -36,7 +36,7 @@
 <br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=treahall&show_icons=true&locale=en&layout=compact" alt="treahall" /></p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=treahall&show_icons=true&locale=en" alt="treahall" /></p>
 <br><br><br><br><br><br><br><br>
