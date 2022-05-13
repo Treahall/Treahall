@@ -32,7 +32,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/treversytyP"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="treversytyP" /></a></p>
+<p><a href="https://www.buymeacoffee.com/treversytyP"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" width="210" alt="treversytyP" /></a></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=treahall&show_icons=true&locale=en&layout=compact" alt="treahall" /></p>
 
