@@ -32,13 +32,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/treversytyP"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="treversytyP" /></a></p>
-<br><br><br>
+<p><a href="https://www.buymeacoffee.com/treversytyP"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="treversytyP" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=treahall&show_icons=true&locale=en&layout=compact" alt="treahall" /></p>
-<br><br><br><br><br><br><br>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=treahall&show_icons=true&locale=en&layout=compact" alt="treahall" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=treahall&show_icons=true&locale=en" alt="treahall" /></p>
-<br><br><br><br><br><br><br>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=treahall&show_icons=true&locale=en" alt="treahall" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=treahall&" alt="treahall" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=treahall&" alt="treahall" /></p>
