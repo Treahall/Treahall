@@ -1,5 +1,5 @@
 [Header image]::
-<img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" width="100%">
+<img src="asthetic-rain.gif" width="100%">
 
 
 [Greeting]::
@@ -12,7 +12,7 @@
 
 
 [Coding Gif]::
-<img align="right" alt="Coding" width="50%" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding" width="50%" src="coding_animation.webp">
 
 
 [Info About Current Work]::
