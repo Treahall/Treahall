@@ -15,13 +15,13 @@
     
 
 [Info About Current Work]::
-- 🔭 I’m currently working on overhauling a previous C# [Dungeon Crawler](https://github.com/Treahall/Dungeon-Crawler) game.
+- 🔭 I’m currently working on making a game in Unity.
 
 - 🌱 I’m currently learning web graphics with **Three.js**.
 
 - 👯 I’m looking to collaborate with other **passionate developers**!
 
-- 🤝 I’m looking for help with creating AI for a [Dungeon Crawler](https://github.com/Treahall/Dungeon-Crawler) game.
+- 🤝 I’m looking for help with creating enemies and NPCs in Unity.
 
 - 💬 Ask me about **React, C#, and JavaScript**.
 
