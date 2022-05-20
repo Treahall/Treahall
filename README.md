@@ -7,7 +7,7 @@
 
 
 [Intro Info]::
-<h3 align="center">A First Gen Graduate from The University of Tennessee at Martin with a BS in Computer Science and a Passion for Software Engineering!</h3>
+<h3 align="center">A First Gen Graduate from The University of Tennessee at Martin with a BS in Computer Science and a Passion for Software Engineering and an interest in Game Development!</h3>
 <br>
 
 [Coding Gif]::
