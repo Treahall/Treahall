@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with creating enemies and NPCs in Unity.
 
-- 💬 Ask me about **React, C#, and JavaScript**.
+- 💬 Ask me about **React, JavaScript C#, and Unity**.
 
 - 📫 How to reach me **treverallenhall@gmail.com**.
 
