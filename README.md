@@ -17,7 +17,7 @@
 [Info About Current Work]::
 - 🔭 I’m currently working on making a game in Unity.
 
-- 🌱 I’m currently learning web graphics with **Three.js**.
+- 🌱 I’m currently learning web graphics with **Three.js** and prgressing on the **AlgoExpert** course for software engineering.
 
 - 👯 I’m looking to collaborate with other **passionate developers**!
 
